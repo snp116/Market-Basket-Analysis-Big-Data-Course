@@ -1,4 +1,4 @@
-# Market Basket Analysis Master
+# Market Basket Analysis
 
 Big Data Project  
 
@@ -22,25 +22,3 @@ conda install --file requirements.txt
 ```
 
 ### 4. Execute the scripts one-by-one
-#### 4.1 Run MBA_EDA_Features.py to get the features and LSH results
-```
-python MBA_EDA_Features.py
-```
-
-#### 4.2 Run MBA_Optimal_K.py to get the optimal K for KMeans
-```
-python MBA_Optimal_K.py Integer1 Integer2 Integer3
-```
-For help:
-```
-python MBA_Optimal_K.py -h
-```
-
-#### 4.3 Run MBA_KMeans.py to get the KMeans results
-```
-python MBA_KMeans.py Integer
-```
-For help:
-```
-python MBA_KMeans.py -h
-```
