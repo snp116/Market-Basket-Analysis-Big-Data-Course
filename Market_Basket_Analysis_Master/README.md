@@ -27,7 +27,7 @@ conda install --file requirements.txt
 python MBA_EDA_Features.py
 ```
 
-#### 4.2 Run MBA_Optimal_K.py to get the optimal K for KMeans
+#### 4.2 Run MBA_Optimal_K.py to get the optimal K for KMeans (for the dataset of instacart, we suggest Integer1:10 Integer2:100 Integer3:10)
 ```
 python MBA_Optimal_K.py Integer1 Integer2 Integer3
 ```
@@ -36,7 +36,7 @@ For help:
 python MBA_Optimal_K.py -h
 ```
 
-#### 4.3 Run MBA_KMeans.py to get the KMeans results
+#### 4.3 Run MBA_KMeans.py to get the KMeans results (for the dataset of instacart, we suggest Integer:40)
 ```
 python MBA_KMeans.py Integer
 ```
