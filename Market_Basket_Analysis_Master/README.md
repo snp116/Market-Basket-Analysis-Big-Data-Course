@@ -1,6 +1,6 @@
 # Market Basket Analysis Master
 
-Big Data Project  
+This is the demo of python script  
 
 ## Getting started
 
